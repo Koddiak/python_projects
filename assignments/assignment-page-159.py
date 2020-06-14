@@ -1,6 +1,6 @@
 import os
 
-fpath = 'C:\\Users\\Koddiak\\Desktop\\Assignment\\'
+fpath = '.\\assignment'
 files = os.listdir(fpath)
 txtFiles = []
 i = 0
