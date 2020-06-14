@@ -9,7 +9,6 @@ with conn:
                  file_id INTEGER PRIMARY KEY AUTOINCREMENT, \
                  file_txt_type TEXT \
                  )')
-    
     conn.commit()
     
     for x in fileList:
