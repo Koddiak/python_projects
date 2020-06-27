@@ -1,6 +1,6 @@
 import os
 
-fpath = '.\\assignment'
+fpath = '.\\assignment-page-159'
 files = os.listdir(fpath)
 txtFiles = []
 i = 0
